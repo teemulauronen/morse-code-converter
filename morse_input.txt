@@ -1,0 +1,3 @@
+****.*.*-**.*-**.---. *--.---.*-*.*-**.-**.
+*-This line should trigger a --- *** lot of warnings
+*-*-*-*-.
